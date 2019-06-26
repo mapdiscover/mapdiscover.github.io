@@ -866,56 +866,54 @@ body.mobile-nav-active #mobile-nav-toggle {
 #support {
   background: #ffffff;
   padding: 80px 0 60px 0;
-
 }
 
-#support .member {
+#support .institute {
   text-align: center;
   margin-bottom: 20px;
 }
 
-#support .member .pic {
+#support .institute .pic {
   margin-bottom: 15px;
   overflow: hidden;
-  /*height: 260px;*/
 }
 
-#support .member .pic img {
-  /*max-width: 100%;*/
+#support .institute .pic img {
   max-width: 260px;
+  max-height: 260px;
 }
 
-#support .member h4 {
+#support .institute h4 {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
 }
 
-#support .member span {
+#support .institute span {
   font-style: italic;
   display: block;
   font-size: 13px;
 }
 
-#support .member .social {
+#support .institute .social {
   margin-top: 15px;
 }
 
-#support .member .social a {
+#support .institute .social a {
   color: #b3b3b3;
 }
 
-#support .member .social a:hover {
+#support .institute .social a:hover {
   color: #2dc997;
 }
 
-#support .member .social i {
+#support .institute .social i {
   font-size: 18px;
   margin: 0 2px;
 }
 
 @media (min-width: 769px) {
-  #support .member .pic img {
+  #support .institute .pic img {
     max-width: 100%;
   }
 }
