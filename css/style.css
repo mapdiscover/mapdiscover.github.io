@@ -868,6 +868,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 80px 0 60px 0;
 }
 
+#support .row {
+  margin-left: auto;
+  width: 90%;
+}
+
 #support .institute {
   text-align: center;
   margin-bottom: 20px;
